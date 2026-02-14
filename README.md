@@ -41,6 +41,9 @@ Airline code
 Origin & destination airports
 Departure & arrival delays
 Cancellation flag
+Cancellation reason
+
+The datasets were merged to create a unified analytical dataset for modeling.
 
 🛠️ Tech Stack
 
@@ -61,8 +64,3 @@ pip install numpy pandas matplotlib seaborn
 
 3. Run the Notebook:
 jupyter notebook Flight_Delays_&_Cancellation_&_Prediction.ipynb
-
-
-Cancellation reason
-
-The datasets were merged to create a unified analytical dataset for modeling.
